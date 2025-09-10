@@ -8,7 +8,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 ## 📅 Daily Progress
 
 - ✅ [Day 01 – Two Sum](Day01_TwoSum)  
-- ⏳ Day 02 – Coming soon...  
+- ✅ [Day 02 – Reverse Integer](Day02_ReverseInteger) 
 - ⏳ Day 03 – Coming soon...  
 
 ---
@@ -20,7 +20,7 @@ leetcode-daily-java/
 ├── Day01_TwoSum/
 │   ├── Solution.java
 │   └── Explanation.md
-├── Day02_ProblemName/
+├├── Day02_ReverseInteger/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
