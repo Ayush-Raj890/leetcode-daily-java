@@ -9,7 +9,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 
 - ✅ [Day 01 – Two Sum](Day01_TwoSum)  
 - ✅ [Day 02 – Reverse Integer](Day02_ReverseInteger) 
-- ⏳ Day 03 – Coming soon...  
+- ✅ [Day 03 – Sort Vowels in a String](Day03_SortVowelsInString/explanation.md) 
 
 ---
 
