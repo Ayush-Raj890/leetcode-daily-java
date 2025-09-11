@@ -34,4 +34,4 @@ leetcode-daily-java/
 
 ---
 
-🔔 Stay tuned as I update this repo daily with new problems and insights!  
+🔔 Stay tuned as I update this repository daily with new problems and insights!  
