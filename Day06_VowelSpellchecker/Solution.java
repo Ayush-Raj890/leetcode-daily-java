@@ -43,3 +43,4 @@ class Solution {
         return "aeiou".indexOf(Character.toLowerCase(c)) >= 0;
     }
 }
+// Time Complexity: O(m + n) where m is the length of wordlist and n is the length of queries
