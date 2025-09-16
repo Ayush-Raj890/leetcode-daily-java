@@ -12,8 +12,9 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 03 – Sort Vowels in a String](Day03_SortVowelsInString/explanation.md) 
 - ✅ [Day 04 – Vowels Game In String](Day04_VowelsGameInString/Explanation.md)
 - ✅ [Day 05 – Find Most Frequent Vowel and Consonant](Day05_FindMostFrequentVowelAndConsonant/Explanation.md)
-- ✅  Day 06 – [LeetCode 966: Vowel Spellchecker](Day06_VowelSpellchecker/explanation.md)  
-- ✅  Day 07 – [LeetCode 1935: Maximum Number of Words You Can Type](Day07_MaximumWordsTyped/explanation.md)  
+- ✅ [Day 06 – LeetCode 966: Vowel Spellchecker](Day06_VowelSpellchecker/explanation.md)  
+- ✅ [Day 07 – LeetCode 1935: Maximum Number of Words You Can Type](Day07_MaximumWordsTyped/explanation.md)  
+- ✅ [Day 08 - LeetCode 2197: Replace Non-Coprime Numbers in Array](Day08_ReplaceNonCoprime/explanation.md)  
 
 ---
 
