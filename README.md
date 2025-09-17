@@ -15,6 +15,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 06 – LeetCode 966: Vowel Spellchecker](Day06_VowelSpellchecker/explanation.md)  
 - ✅ [Day 07 – LeetCode 1935: Maximum Number of Words You Can Type](Day07_MaximumWordsTyped/explanation.md)  
 - ✅ [Day 08 - LeetCode 2197: Replace Non-Coprime Numbers in Array](Day08_ReplaceNonCoprime/explanation.md)  
+  ✅ [Day 09 – LeetCode 2353: Design a Food Rating System](Day09_DesignFoodRatingSystem/explanation.md)  
 
 ---
 
