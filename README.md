@@ -17,7 +17,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 08 - LeetCode 2197: Replace Non-Coprime Numbers in Array](Day08_ReplaceNonCoprime/explanation.md)  
 - ✅ [Day 09 – LeetCode 2353: Design a Food Rating System](Day09_DesignFoodRatingSystem/explanation.md)  
 - ✅ [Day 10 - Design Task Manager](Day10_DesignTaskManager/explanation.md)
-
+- ✅ [Day 11 – Design Spreadsheet](Day11_DesignSpreadsheet/explanation.md)
 
 
 ---
