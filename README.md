@@ -18,6 +18,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 09 – LeetCode 2353: Design a Food Rating System](Day09_DesignFoodRatingSystem/explanation.md)  
 - ✅ [Day 10 - Design Task Manager](Day10_DesignTaskManager/explanation.md)
 - ✅ [Day 11 – Design Spreadsheet](Day11_DesignSpreadsheet/explanation.md)
+- ✅ [Day 12 – Design Router](Day12_DesignRouter/explanation.md)
 
 
 ---
