@@ -35,7 +35,7 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
----
+----
 
 ## ✨ Why this repo?
 

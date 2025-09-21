@@ -13,7 +13,7 @@ We need efficient lookups, insertions, and deletions.
 
 ---
 
-## Approach
+## Approach ##
 
 We design a data structure with the following components:
 

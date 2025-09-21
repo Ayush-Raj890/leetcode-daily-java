@@ -88,7 +88,7 @@ public class Solution {
             .add(node);
     }
 
-    // Return up to 5 rented copies [shop, movie], cheapest then shop asc, then movie asc.
+    // Return up to 5 rented copies [[shop, movie], cheapest then shop asc, then movie asc].
     public List<List<Integer>> report() {
         List<List<Integer>> ans = new ArrayList<>(5);
         Iterator<Node> it = rentedSet.iterator();
