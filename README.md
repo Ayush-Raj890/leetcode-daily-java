@@ -19,6 +19,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 10 - Design Task Manager](Day10_DesignTaskManager/explanation.md)
 - ✅ [Day 11 – Design Spreadsheet](Day11_DesignSpreadsheet/explanation.md)
 - ✅ [Day 12 – Design Router](Day12_DesignRouter/explanation.md)
+- ✅ [Day 13 – Design Movie Rental System](Day13_DesignMovieRentalSystem/explanation.md)
 
 
 ---
