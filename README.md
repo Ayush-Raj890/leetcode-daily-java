@@ -7,20 +7,19 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 
 ## 📅 Daily Progress
 
-- ✅ [Day 01 – Two Sum](Day01_TwoSum)  
-- ✅ [Day 02 – Reverse Integer](Day02_ReverseInteger) 
-- ✅ [Day 03 – Sort Vowels in a String](Day03_SortVowelsInString/explanation.md) 
-- ✅ [Day 04 – Vowels Game In String](Day04_VowelsGameInString/Explanation.md)
-- ✅ [Day 05 – Find Most Frequent Vowel and Consonant](Day05_FindMostFrequentVowelAndConsonant/Explanation.md)
-- ✅ [Day 06 – LeetCode 966: Vowel Spellchecker](Day06_VowelSpellchecker/explanation.md)  
-- ✅ [Day 07 – LeetCode 1935: Maximum Number of Words You Can Type](Day07_MaximumWordsTyped/explanation.md)  
-- ✅ [Day 08 - LeetCode 2197: Replace Non-Coprime Numbers in Array](Day08_ReplaceNonCoprime/explanation.md)  
-- ✅ [Day 09 – LeetCode 2353: Design a Food Rating System](Day09_DesignFoodRatingSystem/explanation.md)  
-- ✅ [Day 10 - Design Task Manager](Day10_DesignTaskManager/explanation.md)
-- ✅ [Day 11 – Design Spreadsheet](Day11_DesignSpreadsheet/explanation.md)
-- ✅ [Day 12 – Design Router](Day12_DesignRouter/explanation.md)
-- ✅ [Day 13 – Design Movie Rental System](Day13_DesignMovieRentalSystem/explanation.md)
-
+- ✅ [Day 1 – TwoSum](Day01_TwoSum/Explanation.md)
+- ✅ [Day 2 – ReverseInteger](Day02_ReverseInteger/Explanation.md)
+- ✅ [Day 3 – SortVowelsInString](Day03_SortVowelsInString/Explanation.md)
+- ✅ [Day 4 – VowelsGameInString](Day04_VowelsGameInString/Explanation.md)
+- ✅ [Day 5 – FindMostFrequentVowelAndConsonant](Day05_FindMostFrequentVowelAndConsonant/)
+- ✅ [Day 6 – VowelSpellchecker](Day06_VowelSpellchecker/)
+- ✅ [Day 7 – MaximumWordsTyped](Day07_MaximumWordsTyped/Explanation.md)
+- ✅ [Day 8 – ReplaceNonCoprime](Day08_ReplaceNonCoprime/Explanation.md)
+- ✅ [Day 9 – DesignFoodRatingSystem](Day09_DesignFoodRatingSystem/Explanation.md)
+- ✅ [Day 10 – DesignTaskManager](Day10_DesignTaskManager/Explanation.md)
+- ✅ [Day 11 – 3484. Design Spreadsheet](Day11_3484. Design Spreadsheet/Explanation.md)
+- ✅ [Day 12 – DesignRouter](Day12_DesignRouter/Explanation.md)
+- ✅ [Day 13 – DesignMovieRentalSystem](Day13_DesignMovieRentalSystem/Explanation.md)
 
 ---
 
@@ -29,9 +28,37 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 leetcode-daily-java/
 │
 ├── Day01_TwoSum/
+│   └── Explanation.md
+├── Day02_ReverseInteger/
 │   ├── Solution.java
 │   └── Explanation.md
-├├── Day02_ReverseInteger/
+├── Day03_SortVowelsInString/
+│   └── Explanation.md
+├── Day04_VowelsGameInString/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day05_FindMostFrequentVowelAndConsonant/
+│   ├── Solution.java
+├── Day06_VowelSpellchecker/
+│   ├── Solution.java
+├── Day07_MaximumWordsTyped/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day08_ReplaceNonCoprime/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day09_DesignFoodRatingSystem/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day10_DesignTaskManager/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day11_3484. Design Spreadsheet/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day12_DesignRouter/
+│   └── Explanation.md
+├── Day13_DesignMovieRentalSystem/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
@@ -45,4 +72,4 @@ leetcode-daily-java/
 
 ---
 
-🔔 Stay tuned as I update this repository daily with new problems and insights!  
+🔔 Stay tuned as I update this repository daily with new problems and insights!
