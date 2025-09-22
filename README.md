@@ -20,6 +20,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 11 – 3484. Design Spreadsheet](Day11_3484. Design Spreadsheet/Explanation.md)
 - ✅ [Day 12 – DesignRouter](Day12_DesignRouter/Explanation.md)
 - ✅ [Day 13 – DesignMovieRentalSystem](Day13_DesignMovieRentalSystem/Explanation.md)
+- ✅ [Day 14 – Maximum Frequency Elements](Day14_MaximumFrequencyElements/explanation.md)
+
 
 ---
 
