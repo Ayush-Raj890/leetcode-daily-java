@@ -22,6 +22,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 13 – DesignMovieRentalSystem](Day13_DesignMovieRentalSystem/Explanation.md)
 - ✅ [Day 14 – Maximum Frequency Elements](Day14_MaximumFrequencyElements/explanation.md)
 - ✅ [Day 15 – Compare Version Numbers](Day15_CompareVersionNumbers/explanation.md)
+- ✅ [Day 16 – Fraction to Recurring Decimal](Day16_FractionToRecurringDecimal/explanation.md)
+
 
 
 
