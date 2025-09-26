@@ -24,7 +24,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 15 – Compare Version Numbers](Day15_CompareVersionNumbers/explanation.md)
 - ✅ [Day 16 – Fraction to Recurring Decimal](Day16_FractionToRecurringDecimal/explanation.md)
 - ✅ [Day 17 – Triangle](Day17_Triangle/explanation.md)
-
+- ✅ [Day 18 – Valid Triangle Number](Day18_ValidTriangleNumber/explanation.md)
 
 
 
