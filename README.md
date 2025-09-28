@@ -26,6 +26,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 17 – Triangle](Day17_Triangle/explanation.md)
 - ✅ [Day 18 – Valid Triangle Number](Day18_ValidTriangleNumber/explanation.md)
 - ✅ [Day 19 – Largest Triangle Area](Day19_LargestTriangleArea/explanation.md)
+- ✅ [Day 20 – Largest Perimeter Triangle](Day20_LargestPerimeterTriangle/explanation.md)
+
 
 
 
