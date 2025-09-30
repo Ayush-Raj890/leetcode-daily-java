@@ -17,7 +17,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 8 – ReplaceNonCoprime](Day08_ReplaceNonCoprime/Explanation.md)
 - ✅ [Day 9 – DesignFoodRatingSystem](Day09_DesignFoodRatingSystem/Explanation.md)
 - ✅ [Day 10 – DesignTaskManager](Day10_DesignTaskManager/Explanation.md)
-- ✅ [Day 11 – Design Spreadsheet](Day11_3484. Design Spreadsheet/Explanation.md)
+- ✅ [Day 11 – Design Spreadsheet](Day11_Design_Spreadsheet/Explanation.md)
 - ✅ [Day 12 – DesignRouter](Day12_DesignRouter/Explanation.md)
 - ✅ [Day 13 – DesignMovieRentalSystem](Day13_DesignMovieRentalSystem/Explanation.md)
 - ✅ [Day 14 – Maximum Frequency Elements](Day14_MaximumFrequencyElements/explanation.md)
@@ -27,8 +27,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 18 – Valid Triangle Number](Day18_ValidTriangleNumber/explanation.md)
 - ✅ [Day 19 – Largest Triangle Area](Day19_LargestTriangleArea/explanation.md)
 - ✅ [Day 20 – Largest Perimeter Triangle](Day20_LargestPerimeterTriangle/explanation.md)
-✅ [Day 21 – Minimum Score Triangulation of Polygon](Day21_MinScoreTriangulation/explanation.md)  
-✅ [Day 22 – Triangular Sum of an Array](Day22_TriangularSum/explanation.md)
+- ✅ [Day 21 – Minimum Score Triangulation of Polygon](Day21_MinScoreTriangulation/explanation.md)  
+- ✅ [Day 22 – Triangular Sum of an Array](Day22_TriangularSum/explanation.md)
 
 
 
