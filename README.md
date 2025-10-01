@@ -28,8 +28,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 19 – Largest Triangle Area](Day19_LargestTriangleArea/explanation.md)
 - ✅ [Day 20 – Largest Perimeter Triangle](Day20_LargestPerimeterTriangle/explanation.md)
 - ✅ [Day 21 – Minimum Score Triangulation of Polygon](Day21_MinScoreTriangulation/explanation.md)  
-- ✅ [Day 22 – Triangular Sum of an Array](Day22_TriangularSum/explanation.md)
-
+- ✅ [Day 22 – Triangular Sum of an Array](Day22_TriangularSum/Explanation.md)
+- ✅ [Day 23 - Explanation](Day23_WaterBottles/Explanation.md)  
 
 
 
