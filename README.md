@@ -29,7 +29,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 20 – Largest Perimeter Triangle](Day20_LargestPerimeterTriangle/explanation.md)
 - ✅ [Day 21 – Minimum Score Triangulation of Polygon](Day21_MinScoreTriangulation/explanation.md)  
 - ✅ [Day 22 – Triangular Sum of an Array](Day22_TriangularSum/Explanation.md)
-- ✅ [Day 23 - Explanation](Day23_WaterBottles/Explanation.md)  
+- ✅ [Day 23 – Water Bottles](Day23_WaterBottles/Explanation.md)
+- ✅ [Day 24 – Maximum Bottles Drunk](Day24_MaximumBottlesDrunk/Explanation.md)
 
 
 
@@ -72,6 +73,39 @@ leetcode-daily-java/
 ├── Day12_DesignRouter/
 │   └── Explanation.md
 ├── Day13_DesignMovieRentalSystem/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day14_MaximumFrequencyElements/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day15_CompareVersionNumbers/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day16_FractionToRecurringDecimal/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day17_Triangle/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day18_ValidTriangleNumber/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day19_LargestTriangleArea/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day20_LargestPerimeterTriangle/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day21_MinScoreTriangulation/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day22_TriangularSum/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day23_WaterBottles/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day24_MaximumBottlesDrunk/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
