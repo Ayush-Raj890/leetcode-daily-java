@@ -31,6 +31,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 22 – Triangular Sum of an Array](Day22_TriangularSum/Explanation.md)
 - ✅ [Day 23 – Water Bottles](Day23_WaterBottles/Explanation.md)
 - ✅ [Day 24 – Maximum Bottles Drunk](Day24_MaximumBottlesDrunk/Explanation.md)
+- ✅ [Day 25 – Trapping Rain Water II](Day25_TrapRainWaterII/Explanation.md)
 
 
 
