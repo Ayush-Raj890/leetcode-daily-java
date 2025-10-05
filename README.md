@@ -33,6 +33,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 24 – Maximum Bottles Drunk](Day24_MaximumBottlesDrunk/Explanation.md)
 - ✅ [Day 25 – Trapping Rain Water II](Day25_TrapRainWaterII/Explanation.md)
 - ✅ [Day 26 – Container With Most Water](Day26_ContainerWithMostWater/explanation.md)
+- ✅ [Day 27 – Pacific Atlantic Water Flow](Day27_PacificAtlanticWaterFlow/Explanation.md)
+
 
 
 
