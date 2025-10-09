@@ -1,54 +1,35 @@
+import java.util.*;
+
 class Solution {
-    public int[] avoidFlood(int[] rain) {
-        int n = rain.length;
-        UnionFind uf = new UnionFind(n + 1);
-        Map<Integer, Integer> map = new HashMap<>();
+    public int[] avoidFlood(int[] rains) {
+        int n = rains.length;
         int[] res = new int[n];
-        Arrays.fill(res, 1);
+        Map<Integer, Integer> fullLakes = new HashMap<>(); // lake -> last rain day
+        TreeSet<Integer> dryDays = new TreeSet<>(); // indexes of dry days
 
         for (int i = 0; i < n; i++) {
-            int lake = rain[i];
-            if (lake == 0) continue;
-
-            res[i] = -1;
-            uf.unite(i);
-
-            if (map.containsKey(lake)) {
-                int prev = map.get(lake);
-                int dry = uf.find(prev + 1);
-
-                if (dry >= i) return new int[0];
-
-                res[dry] = lake;
-                uf.unite(dry);
-                map.put(lake, i);
+            if (rains[i] == 0) {
+                dryDays.add(i); // store index of dry day
+                res[i] = 1; // default (in case we don't need it)
             } else {
-                map.put(lake, i);
+                int lake = rains[i];
+                res[i] = -1; // raining day
+                
+                if (fullLakes.containsKey(lake)) {
+                    // find next available dry day after last rain of this lake
+                    Integer dryDay = dryDays.higher(fullLakes.get(lake));
+                    if (dryDay == null) {
+                        // no dry day available -> flood
+                        return new int[0];
+                    }
+                    res[dryDay] = lake; // dry this lake
+                    dryDays.remove(dryDay); // remove used dry day
+                }
+                
+                fullLakes.put(lake, i); // update last rain day for this lake
             }
         }
 
         return res;
-    }
-}
-
-class UnionFind {
-    int[] parent;
-
-    public UnionFind(int size) {
-        parent = new int[size + 1];
-        for (int i = 0; i <= size; i++) {
-            parent[i] = i;
-        }
-    }
-
-    public int find(int i) {
-        if (parent[i] == i)
-            return i;
-        parent[i] = find(parent[i]);
-        return parent[i];
-    }
-
-    public void unite(int i) {
-        parent[i] = find(i + 1);
     }
 }
