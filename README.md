@@ -38,6 +38,14 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 29 – Avoid Flood in the City](Day29_AvoidFloodInTheCity/Explanation.md)
 - ✅ [Day 30 – Avoid Flood in the City](Day30_AvoidFloodInTheCity/Explanation.md)
 - ✅ [Day 31 – Minimum Time to Repair Cars](Day31_MinimumTimeToRepairCars/Explanation.md)
+- ✅ [Day 32 – Maximum Energy Boost](Day32_MaximumEnergyBoost/Explanation.md)
+
+
+
+
+
+
+
 
 
 
