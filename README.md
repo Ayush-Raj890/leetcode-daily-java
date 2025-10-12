@@ -40,6 +40,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 31 – Minimum Time to Repair Cars](Day31_MinimumTimeToRepairCars/Explanation.md)
 - ✅ [Day 32 – Maximum Energy Boost](Day32_MaximumEnergyBoost/Explanation.md)
 - ✅ [Day 33 – Maximum Total Damage](Day33_MaximumTotalDamage/Explanation.md)
+- ✅ [Day 34 – Magical Sum](Day34_MagicalSum/Explanation.md)
 
 
 
