@@ -41,6 +41,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 32 – Maximum Energy Boost](Day32_MaximumEnergyBoost/Explanation.md)
 - ✅ [Day 33 – Maximum Total Damage](Day33_MaximumTotalDamage/Explanation.md)
 - ✅ [Day 34 – Magical Sum](Day34_MagicalSum/Explanation.md)
+- ✅ [Day 35 – Remove Anagrams](Day35_RemoveAnagrams/Explanation.md)
 
 
 
