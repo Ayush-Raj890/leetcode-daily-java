@@ -43,6 +43,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 34 – Magical Sum](Day34_MagicalSum/Explanation.md)
 - ✅ [Day 35 – Remove Anagrams](Day35_RemoveAnagrams/Explanation.md)
 - ✅ [Day 36 – Has Increasing Subarrays](Day36_HasIncreasingSubarrays/Explanation.md)
+- ✅ [Day 37 – Max Increasing Subarrays](Day37_MaxIncreasingSubarrays/Explanation.md)
+
 
 
 
