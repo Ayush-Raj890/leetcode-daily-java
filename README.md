@@ -62,6 +62,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 
 ## 📌 Repository Structure
 
+```
 leetcode-daily-java/
 │
 ├── Day01_TwoSum/
@@ -132,6 +133,8 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
+
+```
 ---
 
 ## ✨ Why this repo?
