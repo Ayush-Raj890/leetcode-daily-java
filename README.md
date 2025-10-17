@@ -45,6 +45,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 36 – Has Increasing Subarrays](Day36_HasIncreasingSubarrays/Explanation.md)
 - ✅ [Day 37 – Max Increasing Subarrays](Day37_MaxIncreasingSubarrays/Explanation.md)
 - ✅ [Day 38 – Find Smallest Integer](Day38_FindSmallestInteger/Explanation.md)
+- ✅ [Day 39 – Maximum Partitions After Operations](Day39_MaximumPartitionsAfterOperations/Explanation.md)
+
 
 
 
