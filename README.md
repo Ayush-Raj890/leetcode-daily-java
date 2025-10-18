@@ -61,7 +61,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 
 ---
 
-## 📌 Repository Structure
+## 📌 Repository Structure ##
 
 ```
 leetcode-daily-java/
