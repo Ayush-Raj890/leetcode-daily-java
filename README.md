@@ -47,7 +47,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 38 – Find Smallest Integer](Day38_FindSmallestInteger/Explanation.md)
 - ✅ [Day 39 – Maximum Partitions After Operations](Day39_MaximumPartitionsAfterOperations/Explanation.md)
 - ✅ [Day 40 – Max Distinct Elements](Day40_MaxDistinctElements/Explanation.md)
-
+- ✅ [Day 41 – Lexicographically Smallest String](Day41_LexicographicallySmallestString/Explanation.md)
 
 
 
