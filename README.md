@@ -50,6 +50,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 41 – Lexicographically Smallest String](Day41_LexicographicallySmallestString/Explanation.md)
 - ✅ [Day 42 – Final Value After Operations](Day42_FinalValueAfterOperations/Explanation.md)
 - ✅ [Day 43 – Max Frequency After Operations](Day43_MaxFrequencyAfterOperations/Explanation.md)
+- ✅ [Day 44 – Max Frequency After Operations](Day44_MaxFrequencyAfterOperations/Explanation.md)
 
 
 
