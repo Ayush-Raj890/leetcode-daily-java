@@ -51,6 +51,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 42 – Final Value After Operations](Day42_FinalValueAfterOperations/Explanation.md)
 - ✅ [Day 43 – Max Frequency After Operations](Day43_MaxFrequencyAfterOperations/Explanation.md)
 - ✅ [Day 44 – Max Frequency After Operations](Day44_MaxFrequencyAfterOperations/Explanation.md)
+- ✅ [Day 45 – Has Same Digits](Day45_HasSameDigits/Explanation.md)
 
 
 
