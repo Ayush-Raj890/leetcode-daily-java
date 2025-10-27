@@ -55,7 +55,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 46 – Next Beautiful Number](Day46_NextBeautifulNumber/Explanation.md)
 - ✅ [Day 47 – Total Money In Leetcode Bank](Day47_TotalMoneyInLeetcodeBank/Explanation.md)
 - ✅ [Day 48 – Simple Bank](Day48_SimpleBank/Explanation.md)
-
+- ✅ [Day 49 – Number Of Laser Beams](Day49_NumberOfLaserBeams/Explanation.md)
 
 
 
