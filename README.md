@@ -58,7 +58,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 49 – Number Of Laser Beams](Day49_NumberOfLaserBeams/Explanation.md)
 - ✅ [Day 50 – Count Valid Selections](Day50_CountValidSelections/Explanation.md)
 - ✅ [Day 51 – Smallest Number](Day51_SmallestNumber/Explanation.md)
-
+- ✅ [Day 52 – Minimum Number Of Operations](Day52_MinimumNumberOfOperations/Explanation.md)
 
 
 
