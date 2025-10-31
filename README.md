@@ -59,20 +59,11 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 50 – Count Valid Selections](Day50_CountValidSelections/Explanation.md)
 - ✅ [Day 51 – Smallest Number](Day51_SmallestNumber/Explanation.md)
 - ✅ [Day 52 – Minimum Number Of Operations](Day52_MinimumNumberOfOperations/Explanation.md)
-
-
-
-
-
-
-
-
-
-
+- ✅ [Day 53 – Get Sneaky Numbers](Day53_GetSneakyNumbers/Explanation.md)
 
 ---
 
-## 📌 Repository Structure ##
+## 📌 Repository Structure
 
 ```
 leetcode-daily-java/
@@ -144,17 +135,100 @@ leetcode-daily-java/
 ├── Day24_MaximumBottlesDrunk/
 │   ├── Solution.java
 │   └── Explanation.md
+├── Day25_TrapRainWaterII/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day26_ContainerWithMostWater/
+│   ├── Solution.java
+│   └── explanation.md
+├── Day27_PacificAtlanticWaterFlow/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day28_SwimInRisingWater/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day29_AvoidFloodInTheCity/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day30_AvoidFloodInTheCity/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day31_MinimumTimeToRepairCars/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day32_MaximumEnergyBoost/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day33_MaximumTotalDamage/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day34_MagicalSum/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day35_RemoveAnagrams/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day36_HasIncreasingSubarrays/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day37_MaxIncreasingSubarrays/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day38_FindSmallestInteger/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day39_MaximumPartitionsAfterOperations/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day40_MaxDistinctElements/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day41_LexicographicallySmallestString/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day42_FinalValueAfterOperations/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day43_MaxFrequencyAfterOperations/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day44_MaxFrequencyAfterOperations/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day45_HasSameDigits/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day46_NextBeautifulNumber/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day47_TotalMoneyInLeetcodeBank/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day48_SimpleBank/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day49_NumberOfLaserBeams/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day50_CountValidSelections/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day51_SmallestNumber/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day52_MinimumNumberOfOperations/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day53_GetSneakyNumbers/
+│   ├── Solution.java
+│   └── Explanation.md
 └── README.md
 
-```
+
 ---
 
 ## ✨ Why this repo?
 
-- To **practice consistently** and grow as a problem solver.  
-- To maintain both **solutions and explanations** for future reference.  
-- To showcase **clean Java code + algorithmic approaches** in a structured way.  
-
----
-
-🔔 Stay tuned as I update this repository daily with new problems and insights!
+- To **practice consistently** and grow as a problem solver.
+- To maintain both **solutions and explanations** for future reference.
+- To showcase **clean Java code + algorithmic approaches** in a structured way.
