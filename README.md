@@ -60,7 +60,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 51 – Smallest Number](Day51_SmallestNumber/Explanation.md)
 - ✅ [Day 52 – Minimum Number Of Operations](Day52_MinimumNumberOfOperations/Explanation.md)
 - ✅ [Day 53 – Get Sneaky Numbers](Day53_GetSneakyNumbers/Explanation.md)
-
+- ✅ [Day 54 – Remove Nodes By Values](Day54_RemoveNodesByValues/Explanation.md)
 ---
 
 ## 📌 Repository Structure
