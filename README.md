@@ -62,6 +62,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 53 – Get Sneaky Numbers](Day53_GetSneakyNumbers/Explanation.md)
 - ✅ [Day 54 – Remove Nodes By Values](Day54_RemoveNodesByValues/Explanation.md)
 - ✅ [Day 55 – Count Unguarded Cells](Day55_CountUnguardedCells/Explanation.md)
+- ✅ [Day 56 – Minimum Time to Make Rope Colorful](Day56_MinimumTimeToMakeRopeColorful/Explanation.md)
 ---
 
 ## 📌 Repository Structure
