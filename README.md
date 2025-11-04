@@ -63,6 +63,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 54 – Remove Nodes By Values](Day54_RemoveNodesByValues/Explanation.md)
 - ✅ [Day 55 – Count Unguarded Cells](Day55_CountUnguardedCells/Explanation.md)
 - ✅ [Day 56 – Minimum Time to Make Rope Colorful](Day56_MinimumTimeToMakeRopeColorful/Explanation.md)
+- ✅ [Day 57 – X-Sum of Subarrays](Day57_XSum/Explanation.md)
 ---
 
 ## 📌 Repository Structure
