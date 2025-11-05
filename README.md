@@ -64,6 +64,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 55 – Count Unguarded Cells](Day55_CountUnguardedCells/Explanation.md)
 - ✅ [Day 56 – Minimum Time to Make Rope Colorful](Day56_MinimumTimeToMakeRopeColorful/Explanation.md)
 - ✅ [Day 57 – X-Sum of Subarrays](Day57_XSum/Explanation.md)
+- ✅ [Day 58 – X-Sum (Optimized)](Day58_XSumOptimized/Explanation.md)
 ---
 
 ## 📌 Repository Structure
