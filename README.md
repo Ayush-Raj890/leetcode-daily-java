@@ -65,6 +65,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 56 – Minimum Time to Make Rope Colorful](Day56_MinimumTimeToMakeRopeColorful/Explanation.md)
 - ✅ [Day 57 – X-Sum of Subarrays](Day57_XSum/Explanation.md)
 - ✅ [Day 58 – X-Sum (Optimized)](Day58_XSumOptimized/Explanation.md)
+- ✅ [Day 59 – Process Queries (DSU + Component Heaps)](Day59_ProcessQueries/Explanation.md)
 ---
 
 ## 📌 Repository Structure
