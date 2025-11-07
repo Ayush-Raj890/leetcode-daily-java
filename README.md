@@ -66,6 +66,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 57 – X-Sum of Subarrays](Day57_XSum/Explanation.md)
 - ✅ [Day 58 – X-Sum (Optimized)](Day58_XSumOptimized/Explanation.md)
 - ✅ [Day 59 – Process Queries (DSU + Component Heaps)](Day59_ProcessQueries/Explanation.md)
+- ✅ [Day 60 – Maximum Power of Stations](Day60_MaximumPowerOfStations/Explanation.md)
 ---
 
 ## 📌 Repository Structure
