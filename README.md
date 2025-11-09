@@ -68,6 +68,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 59 – Process Queries (DSU + Component Heaps)](Day59_ProcessQueries/Explanation.md)
 - ✅ [Day 60 – Maximum Power of Stations](Day60_MaximumPowerOfStations/Explanation.md)
 - ✅ [Day 61 – Minimum One Bit Operations](Day61_MinimumOneBitOperations/Explanation.md)
+- ✅ [Day 62 – Count Operations to Obtain Zero](Day62_CountOperations/Explanation.md)
 ---
 
 ## 📌 Repository Structure
