@@ -70,6 +70,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 61 – Minimum One Bit Operations](Day61_MinimumOneBitOperations/Explanation.md)
 - ✅ [Day 62 – Count Operations to Obtain Zero](Day62_CountOperations/Explanation.md)
 - ✅ [Day 63 – Minimum Operations](Day63_MinimumOperations/Explanation.md)
+- ✅ [Day 64 – Ones and Zeroes](Day64_OnesAndZeroes/Explanation.md)
+
 ---
 
 ## 📌 Repository Structure
@@ -232,6 +234,7 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
+....
 
 
 ---
