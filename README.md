@@ -71,7 +71,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 62 – Count Operations to Obtain Zero](Day62_CountOperations/Explanation.md)
 - ✅ [Day 63 – Minimum Operations](Day63_MinimumOperations/Explanation.md)
 - ✅ [Day 64 – Ones and Zeroes](Day64_OnesAndZeroes/Explanation.md)
-
+- ✅ [Day 65 – Minimum Operations to Make GCD One](Day65_MinOperationsToMakeGCDOne/Explanation.md)
 ---
 
 ## 📌 Repository Structure
