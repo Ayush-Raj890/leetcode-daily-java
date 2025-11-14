@@ -73,6 +73,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 64 – Ones and Zeroes](Day64_OnesAndZeroes/Explanation.md)
 - ✅ [Day 65 – Minimum Operations to Make GCD One](Day65_MinOperationsToMakeGCDOne/Explanation.md)
 - ✅ [Day 66 – Max Operations](Day66_MaxOperations/Explanation.md)
+- ✅ [Day 67 – Range Addition Queries](Day67_RangeAddQueries/Explanation.md)
 ---
 
 ## 📌 Repository Structure
