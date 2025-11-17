@@ -76,6 +76,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 67 – Range Addition Queries](Day67_RangeAddQueries/Explanation.md)
 - ✅ [Day 68 – Number of Substrings](Day68_NumberOfSubstrings/Explanation.md)
 - ✅ [Day 69 – NumSubstrings](Day69_NumSubstrings/Explanation.md)
+- ✅ [Day 70 – K Length Apart](Day70_KLengthApart/Explanation.md)
 
 ---
 
