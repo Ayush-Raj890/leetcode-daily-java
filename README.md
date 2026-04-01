@@ -77,6 +77,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 68 – Number of Substrings](Day68_NumberOfSubstrings/Explanation.md)
 - ✅ [Day 69 – NumSubstrings](Day69_NumSubstrings/Explanation.md)
 - ✅ [Day 70 – K Length Apart](Day70_KLengthApart/Explanation.md)
+- ✅ [Day 71 – Count Mentions](Day71_CountMentions/Explanation.md)
+- ✅ [Day 72 – Robot Collisions](Day72_RobotCollisions/Explanation.md)
 
 ---
 
