@@ -79,6 +79,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 70 – K Length Apart](Day70_KLengthApart/Explanation.md)
 - ✅ [Day 71 – Count Mentions](Day71_CountMentions/Explanation.md)
 - ✅ [Day 72 – Robot Collisions](Day72_RobotCollisions/Explanation.md)
+- ✅ [Day 73 – Maximum Amount of Money Robot Can Earn](Day73_MaximumAmountOfMoneyRobotCanEarn/Explanation.md)
 
 ---
 
