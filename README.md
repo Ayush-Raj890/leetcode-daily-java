@@ -81,6 +81,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 72 – Robot Collisions](Day72_RobotCollisions/Explanation.md)
 - ✅ [Day 73 – Maximum Amount of Money Robot Can Earn](Day73_MaximumAmountOfMoneyRobotCanEarn/Explanation.md)
 - ✅ [Day 74 – Maximum Walls Destroyed by Robots](Day74_MaxWallsDestroyedByRobots/Explanation.md)
+- ✅ [Day 75 – Decode the Slanted Ciphertext](Day75_DecodeTheSlantedCiphertext/Explanation.md)
 
 ---
 
@@ -241,6 +242,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day53_GetSneakyNumbers/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day75_DecodeTheSlantedCiphertext/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
