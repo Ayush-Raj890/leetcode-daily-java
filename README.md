@@ -83,6 +83,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 74 – Maximum Walls Destroyed by Robots](Day74_MaxWallsDestroyedByRobots/Explanation.md)
 - ✅ [Day 75 – Decode the Slanted Ciphertext](Day75_DecodeTheSlantedCiphertext/Explanation.md)
 - ✅ [Day 76 – Robot Return to Origin](Day76_RobotReturnToOrigin/Explanation.md)
+- ✅ [Day 77 – Walking Robot Simulation](Day77_WalkingRobotSimulation/Explanation.md)
 
 ---
 
