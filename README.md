@@ -85,6 +85,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 76 – Robot Return to Origin](Day76_RobotReturnToOrigin/Explanation.md)
 - ✅ [Day 77 – Walking Robot Simulation](Day77_WalkingRobotSimulation/Explanation.md)
 - ✅ [Day 78 – Walking Robot Simulation II](Day78_WalkingRobotSimulationII/Explanation.md)
+- ✅ [Day 79 – Xor After Queries](Day79_XorAfterQueries/Explanation.md)
 
 ---
 
