@@ -87,6 +87,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 78 – Walking Robot Simulation II](Day78_WalkingRobotSimulationII/Explanation.md)
 - ✅ [Day 79 – Xor After Queries](Day79_XorAfterQueries/Explanation.md)
 - ✅ [Day 80 – Minimum Distance Between Three Equal Elements I](Day80_MinimumDistanceBetweenThreeEqualElementsI/Explanation.md)
+- ✅ [Day 81 – Minimum Distance Between Three Equal Elements II](Day81_MinimumDistanceBetweenThreeEqualElementsII/Explanation.md)
 
 ---
 
@@ -253,6 +254,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day80_MinimumDistanceBetweenThreeEqualElementsI/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day81_MinimumDistanceBetweenThreeEqualElementsII/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
