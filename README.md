@@ -88,6 +88,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 79 – Xor After Queries](Day79_XorAfterQueries/Explanation.md)
 - ✅ [Day 80 – Minimum Distance Between Three Equal Elements I](Day80_MinimumDistanceBetweenThreeEqualElementsI/Explanation.md)
 - ✅ [Day 81 – Minimum Distance Between Three Equal Elements II](Day81_MinimumDistanceBetweenThreeEqualElementsII/Explanation.md)
+- ✅ [Day 82 – Minimum Distance to Type a Word Using Two Fingers](Day82_MinimumDistanceToTypeAWordUsingTwoFingers/Explanation.md)
 
 ---
 
