@@ -89,6 +89,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 80 – Minimum Distance Between Three Equal Elements I](Day80_MinimumDistanceBetweenThreeEqualElementsI/Explanation.md)
 - ✅ [Day 81 – Minimum Distance Between Three Equal Elements II](Day81_MinimumDistanceBetweenThreeEqualElementsII/Explanation.md)
 - ✅ [Day 82 – Minimum Distance to Type a Word Using Two Fingers](Day82_MinimumDistanceToTypeAWordUsingTwoFingers/Explanation.md)
+- ✅ [Day 83 – Minimum Distance to the Target Element](Day83_MinimumDistanceToTheTargetElement/Explanation.md)
 
 ---
 
@@ -258,6 +259,12 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day81_MinimumDistanceBetweenThreeEqualElementsII/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day82_MinimumDistanceToTypeAWordUsingTwoFingers/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day83_MinimumDistanceToTheTargetElement/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
