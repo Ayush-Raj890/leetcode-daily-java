@@ -91,6 +91,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 82 – Minimum Distance to Type a Word Using Two Fingers](Day82_MinimumDistanceToTypeAWordUsingTwoFingers/Explanation.md)
 - ✅ [Day 83 – Minimum Distance to the Target Element](Day83_MinimumDistanceToTheTargetElement/Explanation.md)
 - ✅ [Day 84 – Minimum Total Distance Traveled](Day84_MinimumTotalDistanceTraveled/Explanation.md)
+- ✅ [Day 85 – Shortest Distance to Target String in a Circular Array](Day85_ShortestDistanceToTargetStringInCircularArray/Explanation.md)
 
 ---
 
