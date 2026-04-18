@@ -94,6 +94,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 85 – Shortest Distance to Target String in a Circular Array](Day85_ShortestDistanceToTargetStringInCircularArray/Explanation.md)
 - ✅ [Day 86 – Closest Equal Element Queries](Day86_ClosestEqualElementQueries/Explanation.md)
 - ✅ [Day 87 – Minimum Absolute Distance Between Mirror Pairs](Day 87_Minimum Absolute Distance Between Mirror Pairs/Explanation.md)
+- ✅ [Day 88 – Mirror Distance of an Integer](Day88_MirrorDistanceOfAnInteger/Explanation.md)
 
 
 
