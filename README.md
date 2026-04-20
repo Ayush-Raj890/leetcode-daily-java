@@ -96,6 +96,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 87 – Minimum Absolute Distance Between Mirror Pairs](Day 87_Minimum Absolute Distance Between Mirror Pairs/Explanation.md)
 - ✅ [Day 88 – Mirror Distance of an Integer](Day88_MirrorDistanceOfAnInteger/Explanation.md)
 - ✅ [Day 89 – Maximum Distance Between a Pair of Values](Day89_MaximumDistanceBetweenAPairOfValues/Explanation.md)
+- ✅ [Day 90 – Two Furthest Houses With Different Color](2078. Two Furthest Houses With Different Color/Explanation.md)
 
 
 
@@ -276,6 +277,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day84_MinimumTotalDistanceTraveled/
+│   ├── Solution.java
+│   └── Explanation.md
+├── 2078. Two Furthest Houses With Different Color/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
