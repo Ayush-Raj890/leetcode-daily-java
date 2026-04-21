@@ -97,6 +97,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 88 – Mirror Distance of an Integer](Day88_MirrorDistanceOfAnInteger/Explanation.md)
 - ✅ [Day 89 – Maximum Distance Between a Pair of Values](Day89_MaximumDistanceBetweenAPairOfValues/Explanation.md)
 - ✅ [Day 90 – Two Furthest Houses With Different Color](2078. Two Furthest Houses With Different Color/Explanation.md)
+- ✅ [Day 91 – Minimize Hamming Distance After Swap Operations](Day91_MinimizeHammingDistanceAfterSwapOperations/Explanation.md)
 
 
 
