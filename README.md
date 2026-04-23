@@ -99,6 +99,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 90 – Two Furthest Houses With Different Color](2078. Two Furthest Houses With Different Color/Explanation.md)
 - ✅ [Day 91 – Minimize Hamming Distance After Swap Operations](Day91_MinimizeHammingDistanceAfterSwapOperations/Explanation.md)
 - ✅ [Day 92 – Words Within Two Edits of Dictionary](2452. Words Within Two Edits of Dictionary/Explanation.md)
+- ✅ [Day 93 – Sum of Distances](Day93_SumOfDistances/Explanation.md)
 
 
 
