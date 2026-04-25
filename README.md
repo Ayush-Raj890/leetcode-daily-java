@@ -101,6 +101,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 92 – Words Within Two Edits of Dictionary](2452. Words Within Two Edits of Dictionary/Explanation.md)
 - ✅ [Day 93 – Sum of Distances](Day93_SumOfDistances/Explanation.md)
 - ✅ [Day 94 – Furthest Point From Origin](Day94_FurthestPointFromOrigin/Explanation.md)
+- ✅ [Day 95 – Maximize the Distance Between Points on a Square](Day95_MaximizeDistanceBetweenPointsOnASquare/Explanation.md)
 
 
 
