@@ -102,6 +102,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 93 – Sum of Distances](Day93_SumOfDistances/Explanation.md)
 - ✅ [Day 94 – Furthest Point From Origin](Day94_FurthestPointFromOrigin/Explanation.md)
 - ✅ [Day 95 – Maximize the Distance Between Points on a Square](Day95_MaximizeDistanceBetweenPointsOnASquare/Explanation.md)
+- ✅ [Day 96 – Detect Cycles in 2D Grid](Day96_DetectCyclesIn2DGrid/Explanation.md)
 
 
 
