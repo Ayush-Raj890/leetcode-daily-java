@@ -103,6 +103,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 94 – Furthest Point From Origin](Day94_FurthestPointFromOrigin/Explanation.md)
 - ✅ [Day 95 – Maximize the Distance Between Points on a Square](Day95_MaximizeDistanceBetweenPointsOnASquare/Explanation.md)
 - ✅ [Day 96 – Detect Cycles in 2D Grid](Day96_DetectCyclesIn2DGrid/Explanation.md)
+- ✅ [Day 97 – Check if There is a Valid Path in a Grid](Day97_CheckIfThereIsAValidPathInAGrid/Explanation.md)
 
 
 
@@ -286,6 +287,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── 2078. Two Furthest Houses With Different Color/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day97_CheckIfThereIsAValidPathInAGrid/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day94_FurthestPointFromOrigin/
