@@ -104,6 +104,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 95 – Maximize the Distance Between Points on a Square](Day95_MaximizeDistanceBetweenPointsOnASquare/Explanation.md)
 - ✅ [Day 96 – Detect Cycles in 2D Grid](Day96_DetectCyclesIn2DGrid/Explanation.md)
 - ✅ [Day 97 – Check if There is a Valid Path in a Grid](Day97_CheckIfThereIsAValidPathInAGrid/Explanation.md)
+- ✅ [Day 98 – Minimum Operations to Make a Uni-Value Grid](Day98_MinimumOperationsToMakeAUniValueGrid/Explanation.md)
 
 
 
