@@ -106,6 +106,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 97 – Check if There is a Valid Path in a Grid](Day97_CheckIfThereIsAValidPathInAGrid/Explanation.md)
 - ✅ [Day 98 – Minimum Operations to Make a Uni-Value Grid](Day98_MinimumOperationsToMakeAUniValueGrid/Explanation.md)
 - ✅ [Day 99 – Maximum Score From Grid Operations](Day99_MaximumScoreFromGridOperations/Explanation.md)
+- ✅ [Day 100 – 3742. Maximum Path Score in a Grid](Day100_3742_MaximumPathScoreInAGrid/Explanation.md)
 
 
 
