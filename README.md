@@ -108,7 +108,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 99 – Maximum Score From Grid Operations](Day99_MaximumScoreFromGridOperations/Explanation.md)
 - ✅ [Day 100 – 3742. Maximum Path Score in a Grid](Day100_3742_MaximumPathScoreInAGrid/Explanation.md)
 
-
+- ✅ [Day 396 – Rotate Function](Day396_RotateFunction/Explanation.md)
 
 ---
 
@@ -296,6 +296,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day94_FurthestPointFromOrigin/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day396_RotateFunction/
 │   ├── Solution.java
 │   └── Explanation.md
 └── README.md
