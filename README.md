@@ -108,6 +108,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 99 – Maximum Score From Grid Operations](Day99_MaximumScoreFromGridOperations/Explanation.md)
 - ✅ [Day 100 – 3742. Maximum Path Score in a Grid](Day100_3742_MaximumPathScoreInAGrid/Explanation.md)
 - ✅ [Day 101 – 788. Rotated Digits](Day101_788_RotatedDigits/Explanation.md)
+- ✅ [Day 102 – 796. Rotate String](Day102_796_RotateString/Explanation.md)
 
 
 
