@@ -109,6 +109,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 100 – 3742. Maximum Path Score in a Grid](Day100_3742_MaximumPathScoreInAGrid/Explanation.md)
 - ✅ [Day 101 – 788. Rotated Digits](Day101_788_RotatedDigits/Explanation.md)
 - ✅ [Day 102 – 796. Rotate String](Day102_796_RotateString/Explanation.md)
+ - ✅ [Day 103 – 48. Rotate Image](Day103_48_RotateImage/Explanation.md)
 
 
 
@@ -301,6 +302,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day101_788_RotatedDigits/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day103_48_RotateImage/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day396_RotateFunction/
