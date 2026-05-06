@@ -111,6 +111,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 102 – 788. Rotated Digits](Day101_788_RotatedDigits/Explanation.md)
 - ✅ [Day 103 – 796. Rotate String](Day102_796_RotateString/Explanation.md)
 - ✅ [Day 104 – 48. Rotate Image](Day103_48_RotateImage/Explanation.md)
+- ✅ [Day 105 – 1861. Rotating the Box](Day104_1861_RotatingTheBox/Explanation.md)
 
 
 
