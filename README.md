@@ -114,6 +114,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 104 – 1861. Rotating the Box](Day104_1861_RotatingTheBox/Explanation.md)
 - ✅ [Day 105 – 3660. Jump Game IX](Day105_3660_JumpGameIX/Explanation.md)
 - ✅ [Day 106 – 3629. Minimum Jumps to Reach End via Prime Teleportation](Day106_3629_MinimumJumpsToReachEndViaPrimeTeleportation/Explanation.md)
+- ✅ [Day 107 – 1914. Cyclically Rotating a Grid](Day107_1914_CyclicallyRotatingAGrid/Explanation.md)
 
 
 
