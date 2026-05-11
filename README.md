@@ -116,6 +116,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 106 – 3629. Minimum Jumps to Reach End via Prime Teleportation](Day106_3629_MinimumJumpsToReachEndViaPrimeTeleportation/Explanation.md)
 - ✅ [Day 107 – 1914. Cyclically Rotating a Grid](Day107_1914_CyclicallyRotatingAGrid/Explanation.md)
 - ✅ [Day 108 – 2770. Maximum Number of Jumps to Reach the Last Index](Day108_2770_MaximumNumberOfJumpsToReachTheLastIndex/Explanation.md)
+- ✅ [Day 109 – 2553. Separate the Digits in an Array](Day109_2553_SeparateTheDigitsInAnArray/Explanation.md)
 
 
 
