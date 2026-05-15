@@ -120,6 +120,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 110 – 1665. Minimum Initial Energy to Finish Tasks](Day110_1665_MinimumInitialEnergyToFinishTasks/Explanation.md)
 - ✅ [Day 111 – 1674. Minimum Moves to Make Array Complementary](Day111_1674_MinimumMovesToMakeArrayComplementary/Explanation.md)
 - ✅ [Day 112 – 2784. Check if Array is Good](Day112_2784_CheckIfArrayIsGood/)
+- ✅ [Day 113 – 153. Find Minimum in Rotated Sorted Array](Day113_153_FindMinimumInRotatedSortedArray/Explanation.md)
 
 
 
