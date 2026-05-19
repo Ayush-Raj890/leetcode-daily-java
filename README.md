@@ -124,6 +124,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 114 – 154. Find Minimum in Rotated Sorted Array II](Day114_154_FindMinimumInRotatedSortedArrayII/Solution.java)
 - ✅ [Day 115 – 1306. Jump Game III](Day115_1306_JumpGameIII/README.md)
 - ✅ [Day 116 – 1345. Jump Game IV](Day116_1345_JumpGameIV/README.md)
+- ✅ [Day 117 – 2540. Minimum Common Value](Day117_2540_MinimumCommonValue/Explanation.md)
 
 
 
