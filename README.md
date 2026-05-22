@@ -127,6 +127,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 117 – 2540. Minimum Common Value](Day117_2540_MinimumCommonValue/Explanation.md)
 - ✅ [Day 118 – 2657. Find the Prefix Common Array of Two Arrays](Day118_2657_FindThePrefixCommonArrayOfTwoArrays/Explanation.md)
 - ✅ [Day 119 – 3043. Find the Length of the Longest Common Prefix](Day119_3043_FindTheLengthOfTheLongestCommonPrefix/Explanation.md)
+- ✅ [Day 120 – 33. Search in Rotated Sorted Array](Day120_33_SearchInRotatedSortedArray/Explanation.md)
 
 
 
