@@ -128,6 +128,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 118 – 2657. Find the Prefix Common Array of Two Arrays](Day118_2657_FindThePrefixCommonArrayOfTwoArrays/Explanation.md)
 - ✅ [Day 119 – 3043. Find the Length of the Longest Common Prefix](Day119_3043_FindTheLengthOfTheLongestCommonPrefix/Explanation.md)
 - ✅ [Day 120 – 33. Search in Rotated Sorted Array](Day120_33_SearchInRotatedSortedArray/Explanation.md)
+- ✅ [Day 121 – 1752. Check if Array Is Sorted and Rotated](Day121_1752_CheckIfArrayIsSortedAndRotated/Explanation.md)
+- ✅ [Day 122 – 1340. Jump Game V](Day122_1340_JumpGameV/Explanation.md)
 
 
 
@@ -320,6 +322,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day101_788_RotatedDigits/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day121_1752_CheckIfArrayIsSortedAndRotated/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day103_48_RotateImage/
