@@ -130,6 +130,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 120 – 33. Search in Rotated Sorted Array](Day120_33_SearchInRotatedSortedArray/Explanation.md)
 - ✅ [Day 121 – 1752. Check if Array Is Sorted and Rotated](Day121_1752_CheckIfArrayIsSortedAndRotated/Explanation.md)
 - ✅ [Day 122 – 1340. Jump Game V](Day122_1340_JumpGameV/Explanation.md)
+- ✅ [Day 123 – 1871. Jump Game VII](Day123_1871_JumpGameVII/Explanation.md)
 
 
 
@@ -325,6 +326,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day121_1752_CheckIfArrayIsSortedAndRotated/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day123_1871_JumpGameVII/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day103_48_RotateImage/
