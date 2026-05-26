@@ -131,6 +131,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 121 – 1752. Check if Array Is Sorted and Rotated](Day121_1752_CheckIfArrayIsSortedAndRotated/Explanation.md)
 - ✅ [Day 122 – 1340. Jump Game V](Day122_1340_JumpGameV/Explanation.md)
 - ✅ [Day 123 – 1871. Jump Game VII](Day123_1871_JumpGameVII/Explanation.md)
+- ✅ [Day 124 – 3120. Count the Number of Special Characters I](Day124_3120_CountTheNumberOfSpecialCharactersI/Explanation.md)
 
 
 
@@ -329,6 +330,9 @@ leetcode-daily-java/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day123_1871_JumpGameVII/
+│   ├── Solution.java
+│   └── Explanation.md
+├── Day124_3120_CountTheNumberOfSpecialCharactersI/
 │   ├── Solution.java
 │   └── Explanation.md
 ├── Day103_48_RotateImage/
