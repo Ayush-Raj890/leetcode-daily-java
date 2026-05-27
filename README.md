@@ -132,6 +132,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 122 – 1340. Jump Game V](Day122_1340_JumpGameV/Explanation.md)
 - ✅ [Day 123 – 1871. Jump Game VII](Day123_1871_JumpGameVII/Explanation.md)
 - ✅ [Day 124 – 3120. Count the Number of Special Characters I](Day124_3120_CountTheNumberOfSpecialCharactersI/Explanation.md)
+- ✅ [Day 125 – 3121. Count the Number of Special Characters II](Day125_3121_CountTheNumberOfSpecialCharactersII/Explanation.md)
 
 
 
