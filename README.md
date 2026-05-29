@@ -134,6 +134,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 124 – 3120. Count the Number of Special Characters I](Day124_3120_CountTheNumberOfSpecialCharactersI/Explanation.md)
 - ✅ [Day 125 – 3121. Count the Number of Special Characters II](Day125_3121_CountTheNumberOfSpecialCharactersII/Explanation.md)
 - ✅ [Day 126 – 3093. Longest Common Suffix Queries](Day126_3093_LongestCommonSuffixQueries/Explanation.md)
+- ✅ [Day 127 – 3300. Minimum Element After Replacement With Digit Sum](Day127_3300_MinimumElementAfterReplacementWithDigitSum/Explanation.md)
 
 
 
