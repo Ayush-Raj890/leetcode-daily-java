@@ -136,6 +136,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 126 – 3093. Longest Common Suffix Queries](Day126_3093_LongestCommonSuffixQueries/Explanation.md)
 - ✅ [Day 127 – 3300. Minimum Element After Replacement With Digit Sum](Day127_3300_MinimumElementAfterReplacementWithDigitSum/Explanation.md)
 - ✅ [Day 128 – 3161. Block Placement Queries](Day128_3161_BlockPlacementQueries/Explanation.md)
+- ✅ [Day 129 – 2126. Destroying Asteroids](Day129_2126_DestroyingAsteroids/Explanation.md)
 
 
 
