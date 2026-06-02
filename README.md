@@ -138,6 +138,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 128 – 3161. Block Placement Queries](Day128_3161_BlockPlacementQueries/Explanation.md)
 - ✅ [Day 129 – 2126. Destroying Asteroids](Day129_2126_DestroyingAsteroids/Explanation.md)
 - ✅ [Day 130 – 2144. Minimum Cost of Buying Candies With Discount](Day130_2144_MinimumCostOfBuyingCandiesWithDiscount/Explanation.md)
+- ✅ [Day 131 – 3633. Earliest Finish Time for Land and Water Rides I](Day131_3633_EarliestFinishTimeForLandAndWaterRidesI/Explanation.md)
 
 
 
