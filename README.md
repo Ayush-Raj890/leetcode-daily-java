@@ -142,6 +142,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 132 – 3635. Earliest Finish Time for Land and Water Rides II](Day132_3635_EarliestFinishTimeForLandAndWaterRidesII/Explanation.md)
 - ✅ [Day 133 – 3751. Total Waviness of Numbers in Range I](3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/Solution.java)
 - ✅ [Day 134 – 3753. Total Waviness of Numbers in Range II](Day134_3753_TotalWavinessOfNumbersInRangeII/Explanation.md)
+- ✅ [Day 135 – 2574. Left and Right Sum Differences](Day135_2574_LeftAndRightSumDifferences/Explanation.md)
 
 
 
