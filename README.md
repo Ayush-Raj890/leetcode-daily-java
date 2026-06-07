@@ -143,6 +143,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 133 – 3751. Total Waviness of Numbers in Range I](3751.%20Total%20Waviness%20of%20Numbers%20in%20Range%20I/Solution.java)
 - ✅ [Day 134 – 3753. Total Waviness of Numbers in Range II](Day134_3753_TotalWavinessOfNumbersInRangeII/Explanation.md)
 - ✅ [Day 135 – 2574. Left and Right Sum Differences](Day135_2574_LeftAndRightSumDifferences/Explanation.md)
+- ✅ [Day 136 – 2196. Create Binary Tree From Descriptions](Day136_2196_CreateBinaryTreeFromDescriptions/Explanation.md)
 
 
 
