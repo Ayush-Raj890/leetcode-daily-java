@@ -144,6 +144,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 134 – 3753. Total Waviness of Numbers in Range II](Day134_3753_TotalWavinessOfNumbersInRangeII/Explanation.md)
 - ✅ [Day 135 – 2574. Left and Right Sum Differences](Day135_2574_LeftAndRightSumDifferences/Explanation.md)
 - ✅ [Day 136 – 2196. Create Binary Tree From Descriptions](Day136_2196_CreateBinaryTreeFromDescriptions/Explanation.md)
+- ✅ [Day 137 – 2161. Partition Array According to Given Pivot](Day137_2161_PartitionArrayAccordingToGivenPivot/Explanation.md)
 
 
 
