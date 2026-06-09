@@ -145,6 +145,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 135 – 2574. Left and Right Sum Differences](Day135_2574_LeftAndRightSumDifferences/Explanation.md)
 - ✅ [Day 136 – 2196. Create Binary Tree From Descriptions](Day136_2196_CreateBinaryTreeFromDescriptions/Explanation.md)
 - ✅ [Day 137 – 2161. Partition Array According to Given Pivot](Day137_2161_PartitionArrayAccordingToGivenPivot/Explanation.md)
+- ✅ [Day 138 – 3689. Maximum Total Subarray Value I](Day138_3689_MaximumTotalSubarrayValueI/Explanation.md)
 
 
 
