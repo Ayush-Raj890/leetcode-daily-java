@@ -148,6 +148,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 138 – 3689. Maximum Total Subarray Value I](Day138_3689_MaximumTotalSubarrayValueI/Explanation.md)
 - ✅ [Day 139 – 3691. Maximum Total Subarray Value II](Day139_3691_MaximumTotalSubarrayValueII/Explanation.md)
 - ✅ [Day 140 – 3558. Number of Ways to Assign Edge Weights I](Day140_3558_NumberOfWaysToAssignEdgeWeightsI/Explanation.md)
+- ✅ [Day 141 – 3559. Number of Ways to Assign Edge Weights II](Day141_3559_NumberOfWaysToAssignEdgeWeightsII/Explanation.md)
 
 
 
