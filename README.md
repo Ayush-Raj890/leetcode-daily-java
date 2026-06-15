@@ -150,6 +150,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 140 – 3558. Number of Ways to Assign Edge Weights I](Day140_3558_NumberOfWaysToAssignEdgeWeightsI/Explanation.md)
 - ✅ [Day 141 – 3559. Number of Ways to Assign Edge Weights II](Day141_3559_NumberOfWaysToAssignEdgeWeightsII/Explanation.md)
 - ✅ [Day 142 – 2130. Maximum Twin Sum of a Linked List](Day142_2130_MaximumTwinSumOfALinkedList/Explanation.md)
+- ✅ [Day 143 – 2095. Delete the Middle Node of a Linked List](Day143_2095_DeleteTheMiddleNodeOfALinkedList/Explanation.md)
 
 
 
