@@ -156,6 +156,7 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 145 – 3614. Process String with Special Operations II](Day145_3614_ProcessStringWithSpecialOperationsII/Explanation.md)
 - ✅ [Day 146 – 1344. Angle Between Hands of a Clock](Day146_1344_AngleBetweenHandsOfAClock/Explanation.md)
 - ✅ [Day 147 – 1732. Find the Highest Altitude](Day147_1732_FindTheHighestAltitude/Explanation.md)
+- ✅ [Day 148 – 1840. Maximum Building Height](Day148_1840_MaximumBuildingHeight/Explanation.md)
 
 
 
