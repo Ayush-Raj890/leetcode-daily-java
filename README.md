@@ -157,6 +157,8 @@ This repository demonstrates my **problem-solving skills, algorithmic thinking, 
 - ✅ [Day 146 – 1344. Angle Between Hands of a Clock](Day146_1344_AngleBetweenHandsOfAClock/Explanation.md)
 - ✅ [Day 147 – 1732. Find the Highest Altitude](Day147_1732_FindTheHighestAltitude/Explanation.md)
 - ✅ [Day 148 – 1840. Maximum Building Height](Day148_1840_MaximumBuildingHeight/Explanation.md)
+- ✅ [Day 149 – 1189. Maximum Number of Balloons](Day149_1189_MaximumNumberOfBalloons/Explanation.md)
+- ✅ [Day 150 – 3699. Number of ZigZag Arrays I](Day150_3699_NumberOfZigZagArraysI/Explanation.md)
 
 
 
